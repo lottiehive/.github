@@ -20,7 +20,7 @@ LottieHive is an upcoming Lottie animation marketplace, including a desktop app,
 
 To get started with LottieHive, follow these simple steps once we launch:
 
-1. **Sign Up**: Create an account on [LottieHive.com](https://www.lottiehive.com) when the platform becomes available.
+1. **Sign Up**: Create an account on [LottieHive.com](https://lottiehive.com) when the platform becomes available.
 
 2. **Browse**: Explore our extensive library of Lottie animations, and discover the perfect animation for your project.
 
